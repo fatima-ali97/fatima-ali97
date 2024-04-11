@@ -1,15 +1,54 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=welcome&animation=fadeIn&type=waving&color=timeGradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=welcome!&animation=fadeIn&type=waving&color=timeGradient&height=100"/>
 </p>
-👋 Hey there, fellow code adventurer! 🚀
+<!--<h2> 🤝 &nbsp;Social Handles</h2>
+<p align="center">
+<a href="linkedin.com">
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_LinkedIn-1024.png"/>
+</a>
+  <a href="linkedin.com">
+  <img height="50" src="https://cdn0.iconfinder.com/data/icons/internet-line/512/Internet_Line-01-1024.png"/>
+</a>
+</p> -->
 
-I'm Fatima, a tech trailblazer currently navigating the exciting realm of IT during my inaugural year in college. 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFrNG4wbm1xMjBuZXNqNTFpNnhhNzR4Y2ZuYWl2M2kxY2ZndmlmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif">
+</p>
 
-🎓 Embracing the wild world of programming, I'm on a mission to decode the secrets of code and unlock the potential of technology.
+<h2> 📃 &nbsp;A little bit about myself</h2>
 
-💻 As an enthusiast beginner, I'm passionate about weaving digital magic and crafting solutions that dance to the rhythm of elegant algorithms. My coding journey is a thrilling rollercoaster, and every bug conquered is a victory dance in the realm of 1s and 0s!
+```yaml
+name: Fatima
+current_job: Programming student
 
-🔧 Armed with a curious mind and a penchant for problem-solving, I'm not just content with deciphering the mysteries of programming languages. I've also dipped my toes into the enchanting waters of Arduino, where my creativity meets circuits in a dance of innovation.
+education:
+  - Self-Taught Developer
+  - Bachelor's in Programming  < ON THE WAY >
+
+fields_of_interests:
+  - Ardiono programming
+  - Software Development
+  - Internet of Things 
+  - Web Development
+
+```
+
+<h2> 🚀 &nbsp;Tools I'm comfortable with</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino.svg" alt="arduino" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="linux" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="mysql" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="figma" width="45" height="45"/>
+</p>
+
 <!---
 fatima-ali97/fatima-ali97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
