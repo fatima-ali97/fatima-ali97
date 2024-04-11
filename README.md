@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=welcome&animation=fadeIn&type=waving&color=timeGradient&height=100"/>
+</p>
 👋 Hey there, fellow code adventurer! 🚀
 
 I'm Fatima, a tech trailblazer currently navigating the exciting realm of IT during my inaugural year in college. 
