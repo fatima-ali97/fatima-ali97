@@ -49,7 +49,5 @@ fields_of_interests:
   <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="figma" width="45" height="45"/>
 </p>
 
-<!---
-fatima-ali97/fatima-ali97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2> language stats 🎯 </h2>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatima-ali97&layout=donut&hide=CMake)](https://github.com/anuraghazra/github-readme-stats)
