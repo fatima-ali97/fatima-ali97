@@ -1,15 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=welcome!&animation=fadeIn&type=waving&color=timeGradient&height=100"/>
 </p>
-<!--<h2> 🤝 &nbsp;Social Handles</h2>
-<p align="center">
-<a href="linkedin.com">
-  <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_LinkedIn-1024.png"/>
-</a>
-  <a href="linkedin.com">
-  <img height="50" src="https://cdn0.iconfinder.com/data/icons/internet-line/512/Internet_Line-01-1024.png"/>
-</a>
-</p> -->
+
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFrNG4wbm1xMjBuZXNqNTFpNnhhNzR4Y2ZuYWl2M2kxY2ZndmlmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif">
@@ -24,6 +16,7 @@ current_job: Programming student
 education:
   - Self-Taught Developer
   - Bachelor's in Programming  < ON THE WAY >
+  - Full Stack Developer @ Reboot Coding Institute
 
 fields_of_interests:
   - Ardiono programming
