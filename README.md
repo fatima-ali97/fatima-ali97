@@ -36,13 +36,19 @@ fields_of_interests:
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="45" height="45"/>
   <img src="https://cdn.worldvectorlogo.com/logos/javascript-r.svg" alt="javascript" width="45" height="45"/>
   <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="45" height="45"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" alt="docker" width="45" height="45"/>
   <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="linux" width="45" height="45"/>
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="45" height="45"/>
   <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="45" height="45"/>
+   <img src="https://cdn.worldvectorlogo.com/logos/kaggle-1.svg" alt="kaggle" width="45" height="45"/>
   <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="figma" width="45" height="45"/>
   <img src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" alt="go-lang" width="45" height="45"/>
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="45" height="45"/>
   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="45" height="45"/>
+   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="VS" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/unity-technologies-logo.svg" alt="Unity" width="45" height="45"/>
+
 </p>
 
 <h2> language stats 🎯 </h2>
