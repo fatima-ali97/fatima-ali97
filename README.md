@@ -52,7 +52,8 @@ fields_of_interests:
 </p>
 
 <h2> GitHub stats </h2>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=fatima-ali97&theme=dracula&show_icons=true&hide_border=true&count_private=true) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fatima-ali97&theme=dracula&hide_border=true)
+<!--
+![Github Stats](https://github-readme-stats.vercel.app/api?username=fatima-ali97&theme=dracula&show_icons=true&hide_border=true&count_private=true) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fatima-ali97&theme=dracula&hide_border=true) 
+!-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatima-ali97&theme=radical&layout=donut&hide=CMake,Rich%20Text%20Format,shaderLab)](https://github.com/anuraghazra/github-readme-stats) 
