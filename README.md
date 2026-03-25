@@ -53,4 +53,4 @@ fields_of_interests:
 
 <h2> language stats 🎯 </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatima-ali97&theme=radical&layout=donut&hide=CMake,RichTextFormat)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatima-ali97&theme=radical&layout=donut&hide=CMake,Rich-Text-Format)](https://github.com/anuraghazra/github-readme-stats)
